@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "keywords":["todo", "react", "redux"],
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
