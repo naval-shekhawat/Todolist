@@ -1,0 +1,36 @@
+.main-header .add-project-section {
+    display: flex;
+    justify-content: center;
+}
+
+.main-header .add-project-section button {
+    background-color: dodgerblue;
+    height: 35px;
+    margin: 10px;
+    color: white;  
+}
+
+.main-header .add-project-section input {
+    border-radius: 4px;
+    height: 35px;
+    margin: 10px;
+}
+
+.lists-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lists-wrapper ul {
+    margin: 0;
+    padding: 20px;
+}
+
+.lists-wrapper li {
+    list-style-type: none;
+    padding: 10px;
+    border: 1px solid forestgreen;
+    background-color: deepskyblue;
+    margin: 10px;
+    border-radius: 5px;
+}
